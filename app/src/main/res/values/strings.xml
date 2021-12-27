@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Classical Cipher</string>
+    <string name="caesar">Caesar Cipher</string>
+    <string name="playfair">Playfair Cipher</string>
+    <string name="transposition">Transposition  Cipher</string>
+    <string name="Enter_Text">Enter Text</string>
+    <string name="convert">convert</string>
+    <string name="num_shift">Number Shift</string>
+    <string name="Encrypts">Encrypts</string>
+    <string name="Decrypts">Decrypts</string>
+    <string name="enter_key">Enter Key</string>
+</resources>
